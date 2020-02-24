@@ -1,0 +1,22 @@
+@media(max-width:600px){
+  nav{
+    margin: 0;
+    padding: 0;
+  }
+  .products{
+    display: inherit;
+    height: auto;
+
+  }
+  .product{
+    margin-top: auto;
+
+  }
+
+  .main_Section{
+    padding: 4%;
+  }
+  .sectionDoss,.menciones{
+    display: inherit;
+  }
+}
